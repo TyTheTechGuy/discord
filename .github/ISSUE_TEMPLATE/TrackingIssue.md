@@ -1,7 +1,7 @@
 ---
-name: Feature Request 💡
-about: Suggest a new idea for the community.
-labels: "type: feature-request"
+name: Tracking Issue 🎁
+about: Tracking work for Code Culture ! 
+labels: "type: Work in Progress"
 ---
 
 <!--
@@ -16,12 +16,12 @@ labels: "type: feature-request"
 
 ## Summary
 
-Brief explanation of the feature.
+Open up a Tracking issue for work in progress.
 
 ### Basic example
 
-What is your idea, project, effort, or other bit you would like to add to the community. 
+Track your idea or work in this issue, create a task list or objective. 
 
 ### Motivation
 
-Why are we doing this? What use cases does it support? What is the expected outcome?
+Whats is this work going to add! 

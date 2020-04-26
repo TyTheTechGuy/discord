@@ -1,7 +1,7 @@
 ---
 name: Documentation 📓
 about: Documentation around common questions.
-labels: "type: documentation"
+labels: documentation
 ---
 
 <!--

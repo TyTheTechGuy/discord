@@ -1,7 +1,7 @@
 ---
 name: Tracking Issue 🎁
 about: Tracking work for Code Culture ! 
-labels: "type: Work in Progress"
+labels: Work in Progress
 ---
 
 <!--

@@ -1,7 +1,7 @@
 ---
 name: Feature Request 💡
 about: Suggest a new idea for the community.
-labels: "type: feature-request"
+labels: feature-request
 ---
 
 <!--

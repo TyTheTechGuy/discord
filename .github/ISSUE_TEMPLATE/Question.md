@@ -1,7 +1,7 @@
 ---
 name: Question❓
 about: Have a question or issue want it tracked? Post it here.
-labels: "type: question"
+labels: question
 ---
 
 <!--
